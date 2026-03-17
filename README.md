@@ -1,10 +1,6 @@
 ## GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nishanneupane&hide_border=true&theme=default)](https://git.io/streak-stats)
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nishanneupane&show_icons=true&count_private=true&hide_border=true&theme=default" height="165" />
-</p>
   
 ---
 
