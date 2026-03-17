@@ -1,15 +1,3 @@
-# Nishan Neupane
-
-**Fullstack Developer** — building web apps across the stack.
-
----
-
-## About
-
-I work on fullstack web applications, primarily with TypeScript/JavaScript on the frontend and Java (Spring Boot) or Node.js on the backend. I've also built a few AI-integrated tools and REST APIs. Most of my work spans clones, SaaS apps, and management systems.
-
----
-
 ## Projects
 
 <a href="https://github.com/nishanneupane/nimbopro">
