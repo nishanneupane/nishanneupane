@@ -19,8 +19,8 @@
 <a href="https://github.com/nishanneupane/mare-ai-saas" style="margin-right: 10px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishanneupane&repo=mare-ai-saas&theme=default" />
 </a>
-<a href="https://github.com/nishanneupane/Cliniflow" style="margin-right: 10px;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishanneupane&repo=Cliniflow&theme=default" />
+<a href="https://github.com/nishanneupane/learnovate" style="margin-right: 10px;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishanneupane&repo=learnovate&theme=default" />
 </a>
 <a href="https://github.com/nishanneupane/aiPromptGenerator" style="margin-right: 10px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishanneupane&repo=aiPromptGenerator&theme=default" />
@@ -28,8 +28,16 @@
 <a href="https://github.com/nishanneupane/studysense-frontend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishanneupane&repo=studysense-frontend&theme=default" />
 </a>
-<a href="https://github.com/nishanneupane/Blogging-application-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishanneupane&repo=Blogging-application-api&theme=default" />
+<a href="https://github.com/nishanneupane/votex">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishanneupane&repo=votex&theme=default" />
+</a>
+
+<a href="https://github.com/nishanneupane/numinous">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishanneupane&repo=numinous&theme=default" />
+</a>
+
+<a href="https://github.com/nishanneupane/job-board">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishanneupane&repo=job-board&theme=default" />
 </a>
 
 ---
@@ -62,5 +70,3 @@
 ## Connect
 
 - GitHub: [github.com/nishanneupane](https://github.com/nishanneupane)
-
-![Profile Views](https://komarev.com/ghpvc/?username=nishanneupane&style=flat&color=grey)
