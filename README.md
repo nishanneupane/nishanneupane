@@ -1,15 +1,26 @@
+## GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=nishanneupane&show_icons=true&count_private=true&hide_border=true&theme=default" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanneupane&layout=compact&hide_border=true&theme=default" height="165" />
+</p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nishanneupane&hide_border=true&theme=default)](https://git.io/streak-stats)
+
+---
+
 ## Projects
 
-<a href="https://github.com/nishanneupane/nimbopro">
+<a href="https://github.com/nishanneupane/nimbopro" style="margin-right: 10px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishanneupane&repo=nimbopro&theme=default" />
 </a>
-<a href="https://github.com/nishanneupane/mare-ai-saas">
+<a href="https://github.com/nishanneupane/mare-ai-saas" style="margin-right: 10px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishanneupane&repo=mare-ai-saas&theme=default" />
 </a>
-<a href="https://github.com/nishanneupane/Cliniflow">
+<a href="https://github.com/nishanneupane/Cliniflow" style="margin-right: 10px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishanneupane&repo=Cliniflow&theme=default" />
 </a>
-<a href="https://github.com/nishanneupane/aiPromptGenerator">
+<a href="https://github.com/nishanneupane/aiPromptGenerator" style="margin-right: 10px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishanneupane&repo=aiPromptGenerator&theme=default" />
 </a>
 <a href="https://github.com/nishanneupane/studysense-frontend">
@@ -45,16 +56,6 @@
 
 ---
 
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nishanneupane&show_icons=true&count_private=true&hide_border=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanneupane&layout=compact&hide_border=true&theme=default" height="165" />
-</p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nishanneupane&hide_border=true&theme=default)](https://git.io/streak-stats)
-
----
 
 ## Contribution Graph
 
