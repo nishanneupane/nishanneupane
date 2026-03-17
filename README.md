@@ -1,13 +1,20 @@
 ## GitHub Stats
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nishanneupane&hide_border=true&theme=default)](https://git.io/streak-stats)
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=nishanneupane&show_icons=true&count_private=true&hide_border=true&theme=default" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanneupane&layout=compact&hide_border=true&theme=default" height="165" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nishanneupane&hide_border=true&theme=default)](https://git.io/streak-stats)
+---
+
+## Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishanneupane&theme=github-compact&hide_border=true)](https://github.com/nishanneupane)
 
 ---
+
 
 ## Projects
 
@@ -56,12 +63,6 @@
 
 ---
 
-
-## Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishanneupane&theme=github-compact&hide_border=true)](https://github.com/nishanneupane)
-
----
 
 ## Connect
 
