@@ -69,4 +69,4 @@
 
 ## Connect
 
-- GitHub: [github.com/nishanneupane](https://github.com/nishanneupane)
+- Portfolio: [nishanneupane.com.np](https://nishanneupane.com.np/)
